@@ -20,6 +20,12 @@ h1,h2,h3,h5,h6{
     color: #54e1e1;
 }
 
+#teachcode{
+    width:100%;
+    position: absolute;
+    top:0;
+    bottom:0;
+}
 
 p {
     font-family: 'Raleway', sans-serif;
